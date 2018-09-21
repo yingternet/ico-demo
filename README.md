@@ -10,3 +10,7 @@ I just modified few places:
 3. Add default payable function so user can also just send the ether to token sale address to purchase directly
 4. Put both Token and address on the website just for show
 5. I use kovan testnetwork =) since geth can never sync up with rinkeby testnet.........
+
+you can find my demo site here (Please make sure you have MetaMask https://metamask.io/ enabled and connect to kovan test network first
+
+https://ico-demo.yingternet.com
